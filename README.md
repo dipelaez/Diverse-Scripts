@@ -7,7 +7,6 @@ Welcome to the Diverse Scripts Collection repository! This repository contains a
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Scripts List](#scripts-list)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -26,8 +25,13 @@ To get started with using any of the scripts, follow these steps:
 ## Scripts List
 Below is a list of the scripts currently available in this repository, along with a brief description of what each script does. This list will be updated as new scripts are added.
 
+
 1. Relatório Diário Interações Ploomes
    
 Este script lida com finais de semana, acessa um banco de dados, extrai um relatório da Ploomes,
 processa o relatório e insere os dados no banco de dados.
 
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
