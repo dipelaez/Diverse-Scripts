@@ -20,5 +20,5 @@ To get started with using any of the scripts, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/diverse-scripts-collection.git
+   git clone https://github.com/dipelaez/diverse-scripts-collection.git
    cd diverse-scripts-collection
