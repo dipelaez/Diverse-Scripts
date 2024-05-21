@@ -22,3 +22,11 @@ To get started with using any of the scripts, follow these steps:
    ```bash
    git clone https://github.com/dipelaez/diverse-scripts-collection.git
    cd diverse-scripts-collection
+
+## Scripts List
+Below is a list of the scripts currently available in this repository, along with a brief description of what each script does. This list will be updated as new scripts are added.
+
+1. Relatório Diário Interações Ploomes
+Este script lida com finais de semana, acessa um banco de dados, extrai um relatório da Ploomes,
+processa o relatório e insere os dados no banco de dados.
+
