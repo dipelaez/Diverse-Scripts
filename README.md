@@ -1,6 +1,6 @@
  Diverse Scripts Collection
 
-Welcome to the Diverse Scripts Collection repository! This repository contains a variety of scripts that perform different tasks. Each script is designed to solve a specific problem or automate a particular process. Feel free to explore, use, and contribute to this collection.
+Welcome to the Diverse Scripts Collection repository! This repository contains a variety of scripts that perform different tasks. Each script is designed to solve a specific problem or automate a particular process. Feel free to explore and use.
 
 ## Table of Contents
 
