@@ -27,9 +27,8 @@ Below is a list of the scripts currently available in this repository, along wit
 
 
 1. **Relatório Diário Interações Ploomes**
-   
- Este script lida com finais de semana, acessa um banco de dados, extrai um relatório da Ploomes,
- processa o relatório e insere os dados no banco de dados.
+*Este script lida com finais de semana, acessa um banco de dados, extrai um relatório da Ploomes,
+processa o relatório e insere os dados no banco de dados.*
 
 
 ## License
